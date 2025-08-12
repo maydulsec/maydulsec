@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm maydulsec 👋
+**Role:** Cybersecurity enthusiast |Penetratin Tester, Ethical hacker-in-training  
+**Location:** Bangladesh  
+**Focus:** Network security, defensive automation, tooling, learning OSINT & pentesting in lab environments.
 
-<!--
-**maydulsec/maydulsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured
+- 🔭 Working on: learning safe network tooling & defensive scripts
+- 🌱 Currently: building labs with VirtualBox / Docker to practice legally
+- 💬 Ask me about: Python, Linux, bash, Git/GitHub
 
-Here are some ideas to get you started:
+## Repositories to check
+- `ethical-network-tools-demo` — Safe demos & lab scripts (localhost-only)
+- `my-other-project` — short description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: maydulcybersec@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cybersec-maydul-2b4b78373?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgt8WSe%2BJTnec7bsFM4lWfA%3D%3D
