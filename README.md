@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Maydul  
-💻 **Cybersecurity Intern | Penetration Tester | Red Team Operator | Ethical Hacker | AI-Powered Security Automation | Python Security Engineer**
+💻 **Expert Penetration Tester & Red Team Specialist | Skilled in Network Security, Vulnerability Assessment & AI-Powered Security Automation| Python Security Engineer**
 
 ---
 
